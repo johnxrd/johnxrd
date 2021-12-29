@@ -6,6 +6,7 @@
 ![Java](https://img.shields.io/badge/-Java-22272e?style=for-the-badge&logo=java&logoColor=EC6B09)
 ![C++](https://img.shields.io/badge/-C++-22272e?style=for-the-badge&logo=c%2b%2b&logoColor=214ece)
 ![Sql](https://img.shields.io/badge/-Sql-22272e?style=for-the-badge&logo=mysql&logoColor=00608a)
+![Git](https://img.shields.io/badge/-Git-22272e?style=for-the-badge&logo=git&logoColor=f05033)
 
 ### Follow me
 [![Instagram](https://img.shields.io/badge/-instagram-22272e?style=for-the-badge&logo=instagram&logoColor=c81f5b)](https://www.instagram.com/ionu.cb/)
