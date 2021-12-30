@@ -8,6 +8,7 @@
 ![Sql](https://img.shields.io/badge/-Sql-22272e?style=for-the-badge&logo=microsoft-sql-server&logoColor=de2e28)
 ![Git](https://img.shields.io/badge/-Git-22272e?style=for-the-badge&logo=git&logoColor=f05033)
 ![Html](https://img.shields.io/badge/-Html-22272e?style=for-the-badge&logo=html5&logoColor=f16524)
+![Css](https://img.shields.io/badge/-css-22272e?style=for-the-badge&logo=css3&logoColor=2196f3)
 
 ### Follow me
 [![Instagram](https://img.shields.io/badge/-instagram-22272e?style=for-the-badge&logo=instagram&logoColor=c81f5b)](https://www.instagram.com/ionu.cb/)
